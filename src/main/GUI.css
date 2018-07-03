@@ -1,0 +1,11 @@
+.root{
+    -fx-font-size: 8pt;
+    -fx-font-family: "Arial";
+    -fx-padding: 16;
+}
+
+.grid {
+	-fx-padding: 16;
+	-fx-hgap: 8;
+	-fx-vgap: 6;
+}
