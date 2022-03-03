@@ -1,6 +1,6 @@
 # GPS Paris (K Shortest Path)
 
-Trabalho Prático final da matéria de Grafos ministrada pela professora Fernanda Sumika
+Trabalho Prático final da matéria de Grafos pela Universidade Federal de São João del Rei
 
 O trabalho consiste em produzir o algoritmo k-shortest-path (ou algoritmo de Yen) para um arquivo .csv de vértices e arestas já incluidas no projeto
 
